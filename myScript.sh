@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello World"
+VAR = "Hello World"
+echo $VAR
